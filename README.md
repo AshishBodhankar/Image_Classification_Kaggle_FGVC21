@@ -1,7 +1,7 @@
 # Leaf-Image-Classification
 
 Apple orchards in the United States are under constant threat from many pathogens and insects. Appropriate and timely deployment of disease management depends on early disease detection. Incorrect and delayed diagnosis can result in either excessive or inadequate use of chemicals, with increased production costs and increased environmental and
-health impacts. 
+health impacts.
 
 We used the expert-annotated data set of 18,600 apple leaf images provided to the Kaggle community for the Plant Pathology Challenge as part of the Fine-Grained Visual Categorization (FGVC) workshop.
 
