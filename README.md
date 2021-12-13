@@ -1,4 +1,4 @@
-**Kaggle research code Competition chosen as the Final capstone project for the Applied Machine Learning Course at Stevens during my Masters. Read the abstract below:**
+**Kaggle research code competition chosen as the final capstone project for the "Applied Machine Learning Course" at Stevens during my Masters. Read the abstract below:**
 
 Apple orchards in the United States are under constant threat from many pathogens and insects. Appropriate and timely deployment of disease management depends on early disease detection. Incorrect and delayed diagnosis can result in either excessive or inadequate use of chemicals, with increased production costs and increased environmental and health impacts.
 
